@@ -168,7 +168,7 @@ function App() {
             <img
               src="https://raw.githubusercontent.com/juliocamposmachado/Cardapio-Adega-24-horas/refs/heads/main/logo%20radio%20tatuape%20fm.png"
               alt="Adega Rádio Tatuapé FM Express"
-              className="h-14 md:h-16 object-contain"
+              className="h-12 md:h-14 object-contain"
             />
             <div className="text-center">
               <h1 className="text-xl md:text-2xl font-bold text-white mb-1">
