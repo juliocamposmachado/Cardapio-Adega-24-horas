@@ -170,12 +170,7 @@ function App() {
               alt="Adega Rádio Tatuapé FM Express"
               className="h-12 md:h-14 object-contain"
             />
-            <div className="text-center">
-              <h1 className="text-xl md:text-2xl font-bold text-white mb-1">
-                Adega Rádio Tatuapé FM Express
-              </h1>
-              <p className="text-amber-500 text-sm md:text-base font-semibold">Cardápio Oficial</p>
-            </div>
+          
           </div>
         </div>
       </header>
@@ -246,6 +241,12 @@ function App() {
         <div className="max-w-5xl mx-auto px-4 py-4">
           <div className="space-y-3 text-center">
             {/* Delivery Info */}
+              <div className="text-center">
+              <h1 className="text-xl md:text-2xl font-bold text-white mb-1">
+                Adega Rádio Tatuapé FM Express
+              </h1>
+              <p className="text-amber-500 text-sm md:text-base font-semibold">Cardápio Oficial</p>
+            </div>
             <div className="flex items-center justify-center gap-2 text-amber-500 text-sm md:text-base font-bold">
               <MapPin className="w-5 h-5" />
               <span>Entregas 24h – Rádio Tatuapé FM Express</span>
