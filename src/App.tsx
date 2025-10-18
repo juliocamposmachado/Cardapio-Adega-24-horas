@@ -253,7 +253,7 @@ function App() {
             />
              <div className="text-center">
               <h1 className="text-xl md:text-2xl font-bold text-white mb-1">
-                Adega Rádio Tatuapé FM Express
+                Adega Rádio Tatuapé FM Expresss
               </h1>
               <p className="text-amber-500 text-sm md:text-base font-semibold">Cardápio Oficial</p>
             </div>
