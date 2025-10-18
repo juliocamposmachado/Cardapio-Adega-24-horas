@@ -166,9 +166,9 @@ function App() {
         <div className="max-w-5xl mx-auto px-4 py-6">
           <div className="flex flex-col items-center justify-center gap-4">
             <img
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd_lboAfXBHldjLZRdQXVg4cPgJMHbQmJ8Ku47uepF-ir-C6MR7D6-0zL_ZmUMPV0bZGM&usqp=CAU"
+              src="https://raw.githubusercontent.com/juliocamposmachado/Cardapio-Adega-24-horas/refs/heads/main/logo%20radio%20tatuape%20fm.png"
               alt="Adega Rádio Tatuapé FM Express"
-              className="h-20 md:h-24 object-contain"
+              className="h-19 md:h-23 object-contain"
             />
             <div className="text-center">
               <h1 className="text-xl md:text-2xl font-bold text-white mb-1">
